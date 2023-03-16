@@ -8,7 +8,7 @@ Mobile Application
 
 Those who contributed to this project:
 - <a href="https://www.linkedin.com/in/ismail-bugra-tutanc/">İsmail Buğra TUTANÇ</a>
-- <a href="https://www.linkedin.com/in/rumeysakyrk/">Rumeysa Betül KAYRAK</a>
 - <a href="https://www.linkedin.com/in/myistaken/">Mustafa YILMAZ</a>
+- <a href="https://www.linkedin.com/in/rumeysakyrk/">Rumeysa Betül KAYRAK</a>
 - <a href="https://www.linkedin.com/in/yakuplacin/">Yakup LAÇIN</a>
 - <a href="https://www.linkedin.com/in/yusufbilginn/">Yusuf BİLGİN</a>
